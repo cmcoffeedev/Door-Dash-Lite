@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">DoorDash Lite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="delivery_fee">delivery fee</string>
+    <string name="delivery_time">delivery time</string>
+    <string name="featured_items">Featured Items</string>
+    <string name="delivery_fee_price">$ %1$d</string>
+    <string name="call">Call</string>
+    <string name="detailRating">Rating: %1$.2f</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="minutes_until_closed">Minutes Until Closed</string>
 </resources>
