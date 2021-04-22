@@ -76,7 +76,7 @@ class DoorDashViewModelTest {
 
         mDoorDashRepository = org.mockito.kotlin.mock {
             on {
-                getStoreFeed(37.422740, -122.139956, 0, 0)
+                getStoreFeed(37.422740, -122.139956, 0, 10)
             } doReturn Flowable.just(fakeResponse)
 
             on {
